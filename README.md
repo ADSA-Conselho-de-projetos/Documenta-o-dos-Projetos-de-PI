@@ -55,7 +55,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | representante7@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-07/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `40%  ▰▰▰▰▱▱▱▱▱▱` |
+| 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 10 | representante10@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-10/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 11 | representante11@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-11/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
@@ -282,11 +282,11 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `100%  ▰▰▰▰▰▰▰▰▰▰` |
+| Contexto | `▰▰▰▰▰▰▰▰▰▰ 100%` |
 | Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `50%  ▰▰▰▰▰▱▱▱▱▱` |
-| Simulador financeiro | `50%  ▰▰▰▰▰▱▱▱▱▱` |
-| Documentação | `90%  ▰▰▰▰▰▰▰▰▰▱` |
+| Banco de dados | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Simulador financeiro | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Documentação | `▰▰▰▰▰▰▰▰▰▱ 90%` |
 | Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
@@ -383,17 +383,17 @@ Cada grupo desenvolve **7 entregáveis**:
 Copie e cole o valor correspondente:
 
 ```text
-  0%  ▱▱▱▱▱▱▱▱▱▱
- 10%  ▰▱▱▱▱▱▱▱▱▱
- 20%  ▰▰▱▱▱▱▱▱▱▱
- 30%  ▰▰▰▱▱▱▱▱▱▱
- 40%  ▰▰▰▰▱▱▱▱▱▱
- 50%  ▰▰▰▰▰▱▱▱▱▱
- 60%  ▰▰▰▰▰▰▱▱▱▱
- 70%  ▰▰▰▰▰▰▰▱▱▱
- 80%  ▰▰▰▰▰▰▰▰▱▱
- 90%  ▰▰▰▰▰▰▰▰▰▱
-100%  ▰▰▰▰▰▰▰▰▰▰
+ ▱▱▱▱▱▱▱▱▱▱ 0%
+ ▰▱▱▱▱▱▱▱▱▱ 10%  
+ ▰▰▱▱▱▱▱▱▱▱ 20%  
+ ▰▰▰▱▱▱▱▱▱▱ 30%  
+ ▰▰▰▰▱▱▱▱▱▱ 40%  
+ ▰▰▰▰▰▱▱▱▱▱ 50%  
+ ▰▰▰▰▰▰▱▱▱▱ 60%  
+ ▰▰▰▰▰▰▰▱▱▱ 70%  
+ ▰▰▰▰▰▰▰▰▱▱ 80%  
+ ▰▰▰▰▰▰▰▰▰▱ 90%  
+ ▰▰▰▰▰▰▰▰▰▰ 100%  
 ```
 
 Lembre-se de manter o texto entre crases (`` ` ``) e de atualizar também o **progresso geral** do seu grupo na tabela de [Grupos](#-grupos).
