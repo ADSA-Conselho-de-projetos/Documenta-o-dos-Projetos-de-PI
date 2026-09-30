@@ -4,7 +4,7 @@
 
 **Repositório central com os projetos de todos os grupos da sala**
 
-![1ADSA](https://img.shields.io/badge/turma-NOME_DA_TURMA-blue)
+![1ADSA](https://img.shields.io/badge/turma-1ADSA-blue)
 ![Grupos](https://img.shields.io/badge/grupos-11-success)
 ![Entregáveis](https://img.shields.io/badge/entreg%C3%A1veis-7-orange)
 ![1º Semestre](https://img.shields.io/badge/semestre-2026.2-lightgrey)
@@ -55,7 +55,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | representante7@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-07/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir]([./grupos/grupo-08/documentacao/](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj)) | `40%  ▰▰▰▰▱▱▱▱▱▱` |
+| 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `40%  ▰▰▰▰▱▱▱▱▱▱` |
 | 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 10 | representante10@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-10/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 11 | representante11@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-11/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
@@ -271,12 +271,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Fernando Mateus ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Paulo Vinícius | [@usuario](https://github.com/usuario) | |
-| 3 | Viviane Marques | [@usuario](https://github.com/usuario) | |
-| 4 | Marcos Vinícius | [@usuario](https://github.com/usuario) | |
+| 1 | Fernando Mateus ⭐ | [@usuario](https://github.com/FerKaGe) | Representante |
+| 2 | Paulo Vinícius | [@usuario](https://github.com/paulovpa) | |
+| 3 | Viviane Marques | [@usuario](https://github.com/vmarquesss) | |
+| 4 | Marcos Vinícius | [@usuario](https://github.com/MarcosVMFe) | |
 | 5 | Davi Borges | [@usuario](https://github.com/usuario) | |
-| 6 | Leonardo Linge | [@usuario](https://github.com/usuario) | |
+| 6 | Leonardo Linge | [@usuario](https://github.com/LeonardoVieiraLinge) | |
 
 #### 📊 Progresso dos entregáveis
 
