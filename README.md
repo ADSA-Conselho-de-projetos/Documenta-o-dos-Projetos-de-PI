@@ -1,2 +1,469 @@
-# Documenta-o-dos-Projetos-de-PI
-Projetos de P.I disponíveis para leitura de todos.
+<div align="center">
+
+# 📚 Projetos da Turma
+
+**Repositório central com os projetos de todos os grupos da sala**
+
+![1ADSA](https://img.shields.io/badge/turma-NOME_DA_TURMA-blue)
+![Grupos](https://img.shields.io/badge/grupos-11-success)
+![Entregáveis](https://img.shields.io/badge/entreg%C3%A1veis-7-orange)
+![1º Semestre](https://img.shields.io/badge/semestre-2026.2-lightgrey)
+
+</div>
+
+---
+
+## 📑 Sumário
+
+- [Sobre](#-sobre)
+- [Grupos](#-grupos)
+- [Detalhes por grupo](#-detalhes-por-grupo)
+- [Legenda das barras de progresso](#-legenda-das-barras-de-progresso)
+- [Como atualizar o seu grupo](#-como-atualizar-o-seu-grupo)
+- [Estrutura do repositório](#-estrutura-do-repositório)
+- [Regras e convenções](#-regras-e-convenções)
+
+---
+
+## 🎯 Sobre
+
+Este repositório reúne os projetos desenvolvidos pelos grupos da turma **1ADSA**, na disciplina **PESQUISA E INOVAÇÃO**, sob orientação de **CLÁUDIO FRIZZARINI E JÚLIA LIMA**.
+
+Cada grupo desenvolve **7 entregáveis**:
+
+| # | Entregável |
+|:-:|------------|
+
+| 1 | Contexto |
+| 2 | Protótipo do site |
+| 3 | Banco de dados |
+| 4 | Simulador financeiro |
+| 5 | Documentação |
+| 6 | Site final |
+| 7 | Apresentação |
+
+---
+
+## 👥 Grupos
+
+| Nº | Representante | Projeto | Documentação | Progresso geral |
+|:--:|---------------|---------|:------------:|:---------------:|
+| 01 | representante1@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-01/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 02 | representante2@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-02/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 03 | representante3@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-03/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 04 | representante4@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 07 | representante7@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-07/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 08 | representante8@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-08/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 10 | representante10@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-10/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 11 | representante11@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-11/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+> O **progresso geral** é a média simples dos 7 entregáveis do grupo (veja os detalhes abaixo).
+
+---
+
+## 🔎 Detalhes por grupo
+
+> Clique no grupo para expandir e ver os **integrantes** e o **progresso de cada entregável**.
+
+<details>
+<summary><b>Grupo 01</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 02</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 03</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 04</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 05</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 06</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 07</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 08</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Fernando Mateus ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Paulo Vinícius | [@usuario](https://github.com/usuario) | |
+| 3 | Viviane Marques | [@usuario](https://github.com/usuario) | |
+| 4 | Marcos Vinícius | [@usuario](https://github.com/usuario) | |
+| 5 | Davi Borges | [@usuario](https://github.com/usuario) | |
+| 6 | Leonardo Linge | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `100%  ▰▰▰▰▰▰▰▰▰▰` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `50%  ▰▰▰▰▰▱▱▱▱▱` |
+| Simulador financeiro | `50%  ▰▰▰▰▰▱▱▱▱▱` |
+| Documentação | `90%  ▰▰▰▰▰▰▰▰▰▱` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 09</b> — Nome do projeto · 6 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 10</b> — Nome do projeto · 5 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+<details>
+<summary><b>Grupo 11</b> — Nome do projeto · 7 integrantes</summary>
+
+#### 🧑‍🤝‍🧑 Integrantes
+
+| # | Nome | GitHub | Papel |
+|:-:|------|--------|-------|
+| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 7 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+
+#### 📊 Progresso dos entregáveis
+
+| Entregável | Progresso |
+|------------|:---------:|
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+
+</details>
+
+---
+
+## 🎨 Legenda das barras de progresso
+
+Copie e cole o valor correspondente:
+
+```text
+  0%  ▱▱▱▱▱▱▱▱▱▱
+ 10%  ▰▱▱▱▱▱▱▱▱▱
+ 20%  ▰▰▱▱▱▱▱▱▱▱
+ 30%  ▰▰▰▱▱▱▱▱▱▱
+ 40%  ▰▰▰▰▱▱▱▱▱▱
+ 50%  ▰▰▰▰▰▱▱▱▱▱
+ 60%  ▰▰▰▰▰▰▱▱▱▱
+ 70%  ▰▰▰▰▰▰▰▱▱▱
+ 80%  ▰▰▰▰▰▰▰▰▱▱
+ 90%  ▰▰▰▰▰▰▰▰▰▱
+100%  ▰▰▰▰▰▰▰▰▰▰
+```
+
+Lembre-se de manter o texto entre crases (`` ` ``) e de atualizar também o **progresso geral** do seu grupo na tabela de [Grupos](#-grupos).
+
+<details>
+<summary>💡 Prefere uma barra colorida? (opcional)</summary>
+
+Use um badge, trocando o número e a cor (`red`, `orange`, `yellow`, `green`):
+
+```markdown
+![Site final](https://img.shields.io/badge/Site_final-60%25-yellow)
+```
+
+![Site final](https://img.shields.io/badge/Site_final-60%25-yellow)
+
+</details>
+
+---
+
+## 🛠️ Como atualizar o seu grupo
+
+1. Faça um **fork** deste repositório (ou peça acesso de colaborador ao professor).
+2. Crie uma branch: `git checkout -b grupo-XX-atualizacao`
+3. Edite **apenas**:
+   - a linha do seu grupo na tabela de [Grupos](#-grupos);
+   - o bloco do seu grupo em [Detalhes por grupo](#-detalhes-por-grupo);
+   - os arquivos dentro de `grupos/grupo-XX/`.
+4. Faça o commit: `git commit -m "grupo XX: atualiza progresso do simulador financeiro"`
+5. Abra um **Pull Request** para a branch `main`.
+
+> ⚠️ Não altere linhas ou blocos de outros grupos. Se houver conflito no merge, mantenha as duas versões.
+
+---
+
+## 🗂️ Estrutura do repositório
+
+```text
+.
+├── README.md
+├── grupos/
+│   ├── grupo-01/
+│   │   ├── README.md               # resumo do projeto
+│   │   ├── contexto/
+│   │   ├── prototipo/
+│   │   ├── banco-de-dados/
+│   │   ├── simulador-financeiro/
+│   │   ├── documentacao/
+│   │   ├── site-final/
+│   │   └── apresentacao/
+│   ├── grupo-02/
+│   ├── ...
+│   └── grupo-11/
+└── .github/
+    └── pull_request_template.md
+```
+
+---
+
+## 📌 Regras e convenções
+
+- Cada grupo tem **um único representante**, responsável por manter as informações atualizadas.
+- Nomes de pastas: `grupo-01`, `grupo-02`... `grupo-11` (sempre dois dígitos, minúsculas).
+- A documentação deve estar acessível pelo link da tabela de [Grupos](#-grupos).
+- Atualize o progresso **sempre que concluir uma etapa relevante**.
+- Não publique dados pessoais além dos indicados neste README.
+
+---
+
+<div align="center">
+
+Feito com ☕ pela turma **1ADSA** · [Voltar ao topo](#-projetos-da-turma)
+
+</div>
