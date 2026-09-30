@@ -265,7 +265,7 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 08</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 08</b> — SISTEMA DE MONITORAMENTO INTELIGENTE DE VOLUME DE LIXEIRAS PARA OTIMIZAÇÃO DA COLETA DE RESÍDUOS SÓLIDOS EM MUNICÍPIOS DE PEQUENO PORTE  · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
