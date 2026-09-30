@@ -50,7 +50,7 @@ Cada grupo desenvolve **7 entregáveis**:
 |:--:|---------------|---------|:------------:|:---------------:|
 | 01 | representante1@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-01/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 02 | representante2@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-02/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](./grupos/grupo-03/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](./grupos/grupo-03/documentacao/) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 04 | representante4@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
