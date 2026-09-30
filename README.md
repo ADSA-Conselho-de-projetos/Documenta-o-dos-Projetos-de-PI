@@ -50,7 +50,7 @@ Cada grupo desenvolve **7 entregáveis**:
 |:--:|---------------|---------|:------------:|:---------------:|
 | 01 | representante1@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-01/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 02 | representante2@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-02/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 03 | representante3@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-03/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](./grupos/grupo-03/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 04 | representante4@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
@@ -125,29 +125,29 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 03</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 03</b> — Monitoramento de Vazamento de Gás (GLP) em Cozinhas Industriais · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Pietro Giuliani ⭐ | [@pietrogds](https://github.com/pietrogds) | Representante |
+| 2 | Kauã Hideaki | [@usuario](https://github.com/usuario) | |
+| 3 | Flávio Caputo | [@usuario](https://github.com/usuario) | |
+| 4 | Zanee Lopes | [@usuario](https://github.com/usuario) | |
+| 5 | Nicollas Martins | [@usuario](https://github.com/usuario) | |
+| 6 | Pedro Nunes | [@usuario](https://github.com/usuario) | |
 
 #### 📊 Progresso dos entregáveis
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Protótipo do site | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Banco de dados | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Simulador financeiro | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Documentação | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| Site final | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
