@@ -226,18 +226,18 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▰▰▰▰▰▰▰▰▰▱ 90%` |
-| Protótipo do site | `▰▰▰▰▰▰▱▱▱▱ 60%` |
-| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
-| Simulador financeiro | `▰▰▰▱▱▱▱▱▱▱ 30%` |
-| Documentação | `▰▰▰▰▰▰▰▰▱▱ 80%` |
-| Site final | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
 
 <details>
-<summary><b>Grupo 07</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 07</b> — Monitoramento de Temperatura e Umidade do Ar no Processo de Maturação de Queijos Azuis · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
@@ -254,12 +254,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Protótipo do site | `▰▰▰▰▰▰▱▱▱▱ 60%` |
+| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Simulador financeiro | `▰▰▰▱▱▱▱▱▱▱ 30%` |
+| Documentação | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Site final | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
