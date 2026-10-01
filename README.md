@@ -54,7 +54,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 04 | representante4@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 07 | representante7@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-07/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 10 | representante10@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-10/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
@@ -226,12 +226,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Protótipo do site | `▰▰▰▰▰▰▱▱▱▱ 60%` |
+| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Simulador financeiro | `▰▰▰▱▱▱▱▱▱▱ 30%` |
+| Documentação | `▰▰▰▰▰▰▰▰▱▱ 80%` |
+| Site final | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
@@ -243,12 +243,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Igor Pereira ⭐ | [@usuario](https://github.com/igor-fuchs01) | Representante |
+| 2 | Gregory Casarini | [@usuario](https://github.com/casarinigreg) | |
+| 3 | Luann Mariano | [@usuario](https://github.com/LuannMarianoSPTech) | |
+| 4 | Guilherme Rosa | [@usuario](https://github.com/usuario) | |
+| 5 | Kauã Aguas | [@usuario](https://github.com/kaua-augusto) | |
+| 6 | Matheus Santos | [@usuario](https://github.com/GuiBre07) | |
 
 #### 📊 Progresso dos entregáveis
 
