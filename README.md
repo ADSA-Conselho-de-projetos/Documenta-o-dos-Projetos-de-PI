@@ -52,7 +52,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 02 | representante2@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-02/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 04 | representante4@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 05 | representante5@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-05/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
