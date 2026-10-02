@@ -51,7 +51,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 01 | representante1@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-01/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 02 | representante2@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-02/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 03 | pietro.silva@sptech.school | Anzentech | [📄 Abrir](https://docs.google.com/document/d/1pdQKy8AzcwAWBD0h7AzsXSj9r58nsI2C3lmAa_Spp8Q/edit?usp=sharing) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
-| 04 | representante4@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 04 | julia.bsantos@sptech.school | CoffeeTech | [📄 Abrir](./grupos/grupo-04/documentacao/) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 05 | enzo.bento@sptech.school | Cog Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/enzo_bento_sptech_school/IQAN4ZuB5iQDT5Slp7y-Jzm6AeEP08f_hE3fA4Waf_6eVE8?e=tI92Vh) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 06 | representante6@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-06/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
@@ -153,29 +153,32 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 04</b> — Nome do projeto · 6 integrantes</summary>
+<summary><b>Grupo 04</b> — CoffeeTech · 7 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Julia Carolina Brito ⭐ | [@caju1911](https://github.com/caju1911) | Representante |
+| 2 | Arthur Lima dos Santos | [@Arthurfull](https://github.com/Arthurfull) | |
+| 3 | Bruno Volpe Costa | [@bruno-volpe915](https://github.com/bruno-volpe915) | |
+| 4 | Guilherme de Sousa Pinheiro | [@guisyntax](https://github.com/guisyntax) | |
+| 5 | Nátaly Rufino Pereira Gutierrez | [@nataly1802](https://github.com/nataly1802) | |
+| 6 | Matheus de Souza Menino | [@MatheusMenino](https://github.com/MatheusMenino) | |
+| 7 | Vinícius Augusto Alves de Almeida | [@Vinicius-Augusto05](https://github.com/Vinicius-Augusto05) | |
+
 
 #### 📊 Progresso dos entregáveis
+
 
 | Entregável | Progresso |
 |------------|:---------:|
 | Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Protótipo do site | `▰▰▰▰▰▰▰▰▰▰ 100% ` |
+| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Simulador financeiro | `▰▰▰▰▰▰▰▱▱▱ 70%` |
 | Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Site final | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
