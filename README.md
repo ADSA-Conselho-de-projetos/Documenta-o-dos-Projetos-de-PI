@@ -58,7 +58,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 | 10 | representante10@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-10/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 11 | representante11@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-11/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 11 | nickolas.silva@sptech.school | MaqTemp | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/thayssa_souza_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BD5355AEE-9CED-4782-84B5-F976EA4B685D%7D&file=Documentacao_Projeto_TI_MaqTemp_Grupo7.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 
 > O **progresso geral** é a média simples dos 7 entregáveis do grupo (veja os detalhes abaixo).
 
@@ -348,30 +348,28 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 11</b> — Nome do projeto · 7 integrantes</summary>
+<summary><b>Grupo 11</b> — SISTEMA DE MONITORAMENTO DE TEMPERATURA DE MOTORES ELÉTRICOS UTILIZADOS EM BOMBAS CENTRÍFUGAS DA INDÚSTRIA DE TINTAS · 5 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 7 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Nickolas Merol ⭐ | [@usuario](https://github.com/Nickolas-Merola) | Representante |
+| 2 | Luis Otavio| [@usuario](https://github.com/LuisOtavioSptech) | |
+| 3 | Thayssa Santos | [@usuario](https://github.com/ThayssaMarques) | |
+| 4 | Willian Santuches | [@usuario](https://github.com/santuchess) | |
+| 5 | Pedro Bittencourt | [@usuario](https://github.com/Pedro-Bittencourt-M) | |
 
 #### 📊 Progresso dos entregáveis
 
 | Entregável | Progresso |
 |------------|:---------:|
-| Contexto | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Protótipo do site | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Banco de dados | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Simulador financeiro | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Documentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| Site final | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| Contexto | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Protótipo do site | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Banco de dados | `▰▰▰▰▰▰▰▰▰▱ 90%` |
+| Simulador financeiro | `▰▰▰▰▱▱▱▱▱▱ 40%` |
+| Documentação | `▰▰▰▰▰▱▱▱▱▱ 50%` |
+| Site final | `▰▰▰▱▱▱▱▱▱▱ 30%` |
 | Apresentação | `▱▱▱▱▱▱▱▱▱▱ 0%` |
 
 </details>
