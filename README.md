@@ -321,18 +321,18 @@ Cada grupo desenvolve **7 entregáveis**:
 </details>
 
 <details>
-<summary><b>Grupo 10</b> — Nome do projeto · 5 integrantes</summary>
+<summary><b>Grupo 10</b> — Tetria · 6 integrantes</summary>
 
 #### 🧑‍🤝‍🧑 Integrantes
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Vitor Tsumura ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Giovana Carneiro | [@usuario](https://github.com/usuario) | |
-| 3 | Renan Passos | [@usuario](https://github.com/usuario) | |
-| 4 | Gabriela Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Rafael Sobrenome | [@usuario](https://github.com/usuario) | |
-| 6 | Ronaldo Minero | [@usuario](https://github.com/usuario) | |
+| 1 | Vitor Tsumura ⭐ | [@Hiro_dev](https://github.com/Hirodela) | Representante |
+| 2 | Giovana Carneiro | [@Giovann-Carneiro](https://github.com/Giovann-Carneiro) | |
+| 3 | Renan Passos | [@Renan Passos](https://github.com/RenanPassos7dev) | |
+| 4 | Gabriela Ferreira | [@usuario](https://github.com/Gabriela-Marcelino) | |
+| 5 | Rafael Oliveira | [@usuario](https://github.com/rafaoliveiramoura) | |
+| 6 | Ronaldo Minero | [@Ronaldo](http://github.com/ronaldo-minero) | |
 
 #### 📊 Progresso dos entregáveis
 
