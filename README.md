@@ -57,7 +57,7 @@ Cada grupo desenvolve **7 entregáveis**:
 | 07 | igor.pereira@sptech.school | Blue Cheese Solutions | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/igor_pereira_sptech_school/IQCqt9FMeYdbRJukiGQAj8gjAfKs-cL8G7m08feIw0PGads?e=Yv3O12) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 08 | fernando.msantos@sptech.school | Smart Coleta | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/g/personal/fernando_msantos_sptech_school/IQBgYFzYGE4cR62PtyrxkYK4AQIQ046uK4XQKF2weq4y2go?e=SzoRSj) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 09 | representante9@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-09/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
-| 10 | representante10@email.com | Nome do projeto | [📄 Abrir](./grupos/grupo-10/documentacao/) | `▱▱▱▱▱▱▱▱▱▱ 0%` |
+| 10 | vitor.tsumura@sptech.school | Tetria | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/giovanna_carneiro_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BE60FDCD6-4658-4F42-B56B-CF1EEED6D70D%7D&file=Abelha%20Jata%25u00ed.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 | 11 | nickolas.silva@sptech.school | MaqTemp | [📄 Abrir](https://bandteccom-my.sharepoint.com/:w:/r/personal/thayssa_souza_sptech_school/_layouts/15/Doc.aspx?sourcedoc=%7BD5355AEE-9CED-4782-84B5-F976EA4B685D%7D&file=Documentacao_Projeto_TI_MaqTemp_Grupo7.docx&fromShare=true&action=default&mobileredirect=true) | `▰▰▰▰▱▱▱▱▱▱ 40%` |
 
 > O **progresso geral** é a média simples dos 7 entregáveis do grupo (veja os detalhes abaixo).
@@ -327,11 +327,12 @@ Cada grupo desenvolve **7 entregáveis**:
 
 | # | Nome | GitHub | Papel |
 |:-:|------|--------|-------|
-| 1 | Nome Sobrenome ⭐ | [@usuario](https://github.com/usuario) | Representante |
-| 2 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 3 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 4 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
-| 5 | Nome Sobrenome | [@usuario](https://github.com/usuario) | |
+| 1 | Vitor Tsumura ⭐ | [@usuario](https://github.com/usuario) | Representante |
+| 2 | Giovana Carneiro | [@usuario](https://github.com/usuario) | |
+| 3 | Renan Passos | [@usuario](https://github.com/usuario) | |
+| 4 | Gabriela Sobrenome | [@usuario](https://github.com/usuario) | |
+| 5 | Rafael Sobrenome | [@usuario](https://github.com/usuario) | |
+| 6 | Ronaldo Minero | [@usuario](https://github.com/usuario) | |
 
 #### 📊 Progresso dos entregáveis
 
